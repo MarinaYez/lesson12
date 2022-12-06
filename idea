@@ -1,0 +1,96 @@
+.intro {
+    height: 100%;
+    width: 320px;
+    height: 568px;
+    display: flex;
+    margin-left: -10px;
+    margin-top: -100px;
+    background: url(/image/Rectangle\ 1.png) no-repeat center;
+    background-size: cover;
+    padding-top: 138px;
+    padding-left: 0px;
+}
+h1 {
+    width: 284px;
+    height: 89px;
+    left: 113px;
+    top: 173px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 130%;
+    color: #1B1D1F;
+
+}
+
+.h1blue {
+    color: #46B1DE;
+}
+.simpletext {
+    max-width: 281px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 140%;
+    color: #1B1D1F;
+}
+.search-form {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 80px;
+    margin-right: 80px;
+}
+
+.call-a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 35px;
+    gap: 10px;
+    width: 100px;
+    height: 35px;
+    background: linear-gradient(97.59deg, #46B1DE 9.8%, #0591CC 95.1%);
+    box-shadow: 0px 2px 10px #46B1DE;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.serv-a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 35px;
+    gap: 10px;
+    width: 100px;
+    height: 35px;
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    border: 1px solid #DDE0DC;
+    box-shadow: 0px 2px 10px #DDE0DC;
+    border-radius: 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 140%;
+    text-align: center;
+    color: #46B1DE;
+}
+
+.ledy {
+    position: absolute;
+    width: 208px;
+    height: 199px;
+    left: 692px;
+    top: 150px;
+}
